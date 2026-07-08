@@ -1,0 +1,11 @@
+playwright==1.49.1
+pyotp==2.9.0
+python-dotenv==1.0.1
+requests==2.32.3
+Pillow==11.0.0
+opencv-python-headless==4.10.0.84
+pyzbar==0.1.9
+PySocks==1.7.1
+matplotlib==3.10.8
+reportlab==4.4.10
+tzdata==2025.2
