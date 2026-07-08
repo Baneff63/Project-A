@@ -190,7 +190,7 @@ G --> J
 
 # 📂 Project Structure
 
-```text
+
 📦 Project A
 │
 ├── 📂 bot
